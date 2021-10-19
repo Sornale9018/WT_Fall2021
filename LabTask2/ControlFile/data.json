@@ -8,5 +8,25 @@
         "email": "jannatulmawa@gmail.com",
         "password": "123456",
         "image": "D:\\xampp\\tmp\\phpCD0.tmp"
+    },
+    {
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "designation": null,
+        "language": "",
+        "email": null,
+        "password": null,
+        "image": null
+    },
+    {
+        "firstname": "Jannatul Mawa",
+        "lastname": "Sornale",
+        "age": "21",
+        "designation": "Project Lead",
+        "language": "C++",
+        "email": "jannatulmawa9018@gmail.com",
+        "password": "",
+        "image": "G:\\Xampp\\tmp\\phpD8D6.tmp"
     }
 ]
