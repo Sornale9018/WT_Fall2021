@@ -64,7 +64,7 @@ die("Connection failed: " . $conn->connect_error);
 
 
 
-$sql = "INSERT INTO New_Students (firstname,lastname,email,gender,mob,dob,hsc,ss,course,years,semester)
+$sql = "INSERT INTO New_Students (firstname,lastname,email,gender,mob,dob,hsc,ssc,course,years,semester)
 
 VALUES ('$fname','$lname','$email','$gender','$mob','$dob','$hsc','$ssc','$pcourse','$years','$year2')";
 
@@ -82,6 +82,8 @@ else
 
     echo "<br>"; }
 
+
 $conn->close();
 }
+
 ?>
